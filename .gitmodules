@@ -1,0 +1,3 @@
+[submodule "opent"]
+	path = opent
+	url = git@git.vauxoo.com:vauxoo/opent.git
