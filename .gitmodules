@@ -1,3 +1,11 @@
 [submodule "opent"]
 	path = opent
 	url = git@git.vauxoo.com:vauxoo/opent.git
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:vauxoo/mexico-document.git
+	branch = 17.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 17.0
