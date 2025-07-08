@@ -21,3 +21,8 @@
 	path = hr
 	url = git@github.com:Vauxoo/hr.git
 	branch = 17.0
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 17.0
