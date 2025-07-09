@@ -31,3 +31,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 17.0
+
+[submodule "odoo/industry"]
+	path = odoo/industry
+	url = git@github.com:odoo/industry.git
+	branch = 17.0
