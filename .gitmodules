@@ -1,19 +1,19 @@
 [submodule "opent"]
 	path = opent
 	url = git@git.vauxoo.com:vauxoo/opent.git
-	branch = 19.0-mig-opent-isaako34
+	branch = 19.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
 	branch = 19.0
 [submodule "edi-document"]
 	path = edi-document
-	url = git@git.vauxoo.com:vauxoo/edi-document.git
-	branch = 19.0
+	url = git@git.vauxoo.com:vauxoo-dev/edi-document.git
+	branch = 19.0-embed-create-edi-action-isaako34
 [submodule "l10n-mx-payroll"]
 	path = l10n-mx-payroll
-	url = git@git.vauxoo.com:vauxoo/l10n-mx-payroll.git
-	branch = 19.0
+	url = git@git.vauxoo.com:vauxoo-dev/l10n-mx-payroll.git
+	branch = 19.0-fix-payslip-schedule-pay-isaako34
 [submodule "hr-advanced"]
 	path = hr-advanced
 	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
