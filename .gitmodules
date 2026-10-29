@@ -16,8 +16,8 @@
 	branch = 19.0-fix-payslip-schedule-pay-isaako34
 [submodule "hr-advanced"]
 	path = hr-advanced
-	url = git@git.vauxoo.com:vauxoo-dev/hr-advanced.git
-	branch = 19.0-dummy-opent-upgrade-isaako34
+	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
+	branch = 19.0
 [submodule "hr"]
 	path = hr
 	url = git@github.com:Vauxoo/hr.git
