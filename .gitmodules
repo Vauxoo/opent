@@ -8,8 +8,8 @@
 	branch = 19.0
 [submodule "edi-document"]
 	path = edi-document
-	url = git@git.vauxoo.com:vauxoo-dev/edi-document.git
-	branch = 19.0-embed-create-edi-action-isaako34
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 19.0
 [submodule "l10n-mx-payroll"]
 	path = l10n-mx-payroll
 	url = git@git.vauxoo.com:vauxoo/l10n-mx-payroll.git
